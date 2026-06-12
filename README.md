@@ -5,20 +5,13 @@
   <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="License">
 </p>
 
 > **Detect objects in images without training! Now with enhanced methods and ensemble approaches.**
 
 Welcome to the **CLIP Zero-Shot Object Detection** project! This repository demonstrates how to perform zero-shot object detection by integrating OpenAI's **CLIP** (Contrastive Language-Image Pretraining) model with a **Faster R-CNN** for region proposal generation. The project now includes advanced enhancements like confidence scoring, negative prompts, ensemble methods, and alternative detection models.
 
----
 
-| **Source Code**                                                                                                               | **Website**                                                                                                                  |
-| :---------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/deepmancer/clip-object-detection" target="_blank">github.com/deepmancer/clip-object-detection</a> | <a href="https://deepmancer.github.io/clip-object-detection/" target="_blank">deepmancer.github.io/clip-object-detection</a> |
-
----
 
 ## 🎯 Quick Start
 
